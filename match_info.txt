@@ -1,0 +1,55 @@
+Champion: الدوري الفرنسي
+Match: لوهافر vs باريس سان جيرمان
+Time: 21:45
+Score: - - -
+
+Champion: الدوري المصري
+Match: سموحة vs الإسماعيلي
+Time: 19:00
+Score: - - -
+
+Champion: الدوري الإنجليزي
+Match: مانشستر يونايتد vs فولهام
+Time: 22:00
+Score: - - -
+
+Champion: الدوري الإسباني
+Match: سيلتا فيجو vs ألافيس
+Time: 20:00
+Score: - - -
+
+Champion: الدوري الإسباني
+Match: لاس بالماس vs اشبيلية
+Time: 22:30
+Score: - - -
+
+Champion: الدوري التركي
+Match: قونيا سبور vs جالاتا سراي
+Time: 20:00
+Score: - - -
+
+Champion: دوري نجوم قطر
+Match: ام صلال vs الشمال
+Time: 18:30
+Score: - - -
+
+Champion: دوري نجوم قطر
+Match: الدحيل vs الريان
+Time: 20:30
+Score: - - -
+
+Champion: الدوري البرتغالي
+Match: سانتا كلارا vs بورتو
+Time: 19:00
+Score: - - -
+
+Champion: الدوري البرتغالي
+Match: جل فيسنتي vs اي في اس فوتبول
+Time: 22:15
+Score: - - -
+
+Champion: الكونفيدرالية الإفريقية
+Match: نادي كيتارا vs الهلال الليبي
+Time: 20:00
+Score: - - -
+
